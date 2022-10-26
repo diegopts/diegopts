@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *@diegopts*
+- 👋 Hi, I’m **@diegopts**
 
 
 - 👀 I’m interested in test automation and programming
