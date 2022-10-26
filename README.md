@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @diegopts
+- 👋 Hi, I’m *@diegopts*
+
+
 - 👀 I’m interested in test automation and programming
 - 🌱 I’m currently learning Cypress, Ranorex, JS, Py and softskills
 - 💞️ I’m looking to collaborate on my work, my community, friends and people I can help
